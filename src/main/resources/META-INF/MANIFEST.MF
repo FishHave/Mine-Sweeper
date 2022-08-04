@@ -1,0 +1,5 @@
+Name: Mine Clearance
+Created-By: FishHave
+Manifest-Version: 1.0
+Main-Class: net.sevensuns.minesweeper.Application
+

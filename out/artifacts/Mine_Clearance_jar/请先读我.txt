@@ -1,0 +1,2 @@
+1. 如果没安装java，请先进入此网站安装java https://www.oracle.com/java/technologies/downloads/
+2. 安装完成后，打开方式选择Java开头的
